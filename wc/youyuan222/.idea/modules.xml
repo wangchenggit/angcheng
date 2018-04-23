@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/下载/scrapy-redis-master/example-project/.idea/example-project.iml" filepath="$USER_HOME$/下载/scrapy-redis-master/example-project/.idea/example-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapy_redis/.idea/scrapy_redis.iml" filepath="$PROJECT_DIR$/../scrapy_redis/.idea/scrapy_redis.iml" />
+      <module fileurl="file://$USER_HOME$/youyuan/.idea/youyuan.iml" filepath="$USER_HOME$/youyuan/.idea/youyuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../youyuan123/.idea/youyuan123.iml" filepath="$PROJECT_DIR$/../youyuan123/.idea/youyuan123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/youyuan222.iml" filepath="$PROJECT_DIR$/.idea/youyuan222.iml" />
+    </modules>
+  </component>
+</project>
