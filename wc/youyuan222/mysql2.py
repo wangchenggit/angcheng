@@ -10,7 +10,7 @@ def main():
     # 指定redis数据库信息
     rediscli = redis.client.StrictRedis(host='127.0.0.1', port = 6379)
     # 指定mysql数据库
-    mysqlcli = pymysql.connect(host='127.0.0.1', user='root', passwd='123456', db = 'jobboel', port=3306, use_unicode=True,charset="utf8")
+    mysqlcli = pymysql.connect(host='127.0.0.1', user='root', passwd='自己密码', db = 'jobboel', port=3306, use_unicode=True,charset="utf8")
 
     while True:
         # FIFO模式为 blpop，LIFO模式为 brpop，获取键值
